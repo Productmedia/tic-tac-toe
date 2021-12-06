@@ -1,5 +1,3 @@
-import sys
-sys.path.append('../')
 from board_utils.board import *
 
 def unfill_postion(board, row_postion, column_postion, value):
